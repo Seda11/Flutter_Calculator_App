@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![image](https://user-images.githubusercontent.com/56175888/128232071-fb92fb1a-2058-49ca-8a87-e4f016c8e668.png)
+![image](https://user-images.githubusercontent.com/56175888/128232207-9c2f5a4a-2dd7-4b7a-8f1d-6a34d634d62b.png)
 
 ## Getting Started
 
